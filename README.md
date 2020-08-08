@@ -1,4 +1,4 @@
-### Hi, i'm Daniel 👋 __(hey/they)__
+### Hi, i'm Daniel 👋 __(he/they)__
 Just a lil **developer** living in [Winnipeg, Canada](https://www.google.com/maps/place/Winnipeg,+MB/@49.8539272,-97.4324,10z/data=!3m1!4b1!4m5!3m4!1s0x52ea73fbf91a2b11:0x2b2a1afac6b9ca64!8m2!3d49.895136!4d-97.1383744), studying Computer Science. Passionate about photography, i work with my friends **merging classical forms of art with new-age technology**. 
 
 - 🔭 Currently working on `relay` **a solution to dispatching [GitHub actions](https://github.com/features/actions) on webhook triggers**.
