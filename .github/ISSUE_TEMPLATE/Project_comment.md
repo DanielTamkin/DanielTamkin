@@ -1,6 +1,6 @@
 ---
-name: "🏗 Projectbook Entry"
-about: "Write something nice! Have you used one of the tools i've made? let me know :)"
+name: "🏗 Project comment"
+about: "Used, experienced or come across one of my projects? let me know :)"
 title: ''
 ---
 
