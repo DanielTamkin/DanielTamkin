@@ -8,7 +8,7 @@ Just a lil **developer** living in [Winnipeg, Canada](https://www.google.com/map
 - 💬 Ask me about my [monthly Spotify playlists](https://open.spotify.com/playlist/4yIg1FWeyLyTvMbHomIcjW?si=KWhCeZ9sSGG4XbadjK93cg), there's something for everyone.
 - 📫 Tweet me [@CodeHands](https://twitter.com/@CodeHands).
 - 😄 Pronouns: **he/they**.
-- ⚡ Fun fact: Recently released a single! ["Glow"](https://open.spotify.com/track**/0wH9574RYPYIfJX8Lwsea4?si=j38Tn29sSgKCpl4yheAK6A).
+- ⚡ Fun fact: Recently released a single! ["Glow"](https://open.spotify.com/track/0wH9574RYPYIfJX8Lwsea4?si=YH2PeojZTnGrguTg-k74Ww).
 
 <!--
 **DanielTamkin/DanielTamkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
