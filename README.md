@@ -5,7 +5,7 @@ Born in [Winnipeg, Manitoba](https://www.google.com/maps/place/Winnipeg,+MB/@49.
 - New here? [Sign my guestbook](https://github.com/DanielTamkin/DanielTamkin/issues/new?template=Guestbook_entry.md)!
 - 🌱 Getting familiar with [PayloadCMS](https://payloadcms.com).
 - 🧑‍💻 Let's connect on [LinkedIn](https://linkedin.com/in/daniel-tamkin).
-- 🎧 Checkout my [monthly Spotify playlists](https://open.spotify.com/playlist/4yIg1FWeyLyTvMbHomIcjW?si=KWhCeZ9sSGG4XbadjK93cg), there's something for everyone.
+- 🎧 Checkout my [monthly Spotify playlists](https://open.spotify.com/user/danieltamkin/playlists), there's something for everyone.
 - 😄 Pronouns: he/him.
 - 🎓Alma mater: [University of Winnipeg](https://www.uwinnipeg.ca/) Graduate 🎉
 - ⚡ Fun fact: Even though i don't drink it, i've mastered the perfect coffee ☕️ ask me for bean recommendations.
